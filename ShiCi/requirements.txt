@@ -1,3 +1,0 @@
-# Shici backend uses only the Python standard library - no third-party packages.
-# This file exists so deploy platforms (e.g. Render) detect a Python project and so the
-# Build Command "pip install -r requirements.txt" succeeds (it installs nothing).
